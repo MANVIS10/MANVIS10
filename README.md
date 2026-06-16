@@ -1,8 +1,8 @@
 # Hi, I'm Manvi Soni 👋
 
-🎓 B.Tech Student at **College of Technology and Engineering**
+🎓 Aspiring Data Analyis**
 🔍 Actively seeking **Data Analyst / ML Internship**
-📍 India
+
 
 ---
 
@@ -46,7 +46,8 @@ Automated data pipeline that monitors real-time hardware health metrics — volt
 ## 📚 Currently Learning
 - Advanced SQL for Data Analysis
 - Exploratory Data Analysis (EDA)
-- Machine Learning with Scikit-Learn (Krish Naik's course)
+- Machine Learning
+- Feature Engineering
 
 ---
 
